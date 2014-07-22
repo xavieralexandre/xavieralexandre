@@ -1,0 +1,42 @@
+*{
+	margin:0;
+}
+
+body{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 2em;
+	line-height: 1.5;
+	font-weight: 600;
+	background-color: whitesmoke;	
+}
+
+img{
+	position:fixed;
+	right:0;
+	top:0;
+	height:100%;
+	z-index:-1;
+}
+
+
+a{
+	text-decoration: none;
+	color: midnightblue;
+}
+
+nav{
+	position:absolute;
+	margin-left:1em;
+	padding-top:1em;
+	background-color: whitesmoke;
+	width:10em;
+	height:100%;
+}
+
+a:hover{
+	text-decoration: underline
+}
+
+ul{
+	list-style-type: none;
+}
