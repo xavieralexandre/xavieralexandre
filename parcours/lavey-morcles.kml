@@ -23,7 +23,7 @@
                 <Placemark>
                     <visibility>0</visibility>
                     <open>0</open>
-                    <styleUrl>#red</styleUrl>
+                    <styleUrl>#path</styleUrl>
                     <name>Track no. 1</name>
                     <description>No info available</description>
                     <LineString>
