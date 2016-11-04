@@ -4,8 +4,8 @@ var map_lavey = new ga.Map({
   layers: [layer],
   interactions: ol.interaction.defaults({mouseWheelZoom: false, dragPan: false}),
   view: new ol.View({
-    resolution: 6,
-    center: [568870, 117257]
+    resolution: 5,
+    center: [568745.35, 117176.52]
   }),
 });
 
@@ -20,7 +20,7 @@ var vector = new ol.layer.Vector({
   }),
   style: new ol.style.Style({
     stroke: new ol.style.Stroke({
-      color: 'rgba(255,0,0,0.8)',
+      color: 'rgb(255,0,0)',
       width: 6
     }),
   })
