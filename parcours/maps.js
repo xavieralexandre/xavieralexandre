@@ -4,7 +4,7 @@ var map_lavey = new ga.Map({
   layers: [layer],
   interactions: ol.interaction.defaults({mouseWheelZoom: false, dragPan: false}),
   view: new ol.View({
-    resolution: 5,
+    resolution: 10,
     center: [568745.35, 117176.52]
   }),
 });
@@ -12,7 +12,7 @@ var map_lavey = new ga.Map({
 // Create the KML Layer
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://www.xavieralexandre.org/parcours/lavey-morcles.kml',
+    url: 'http://xavieralexandre.org/parcours/lavey-morcles.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),
@@ -20,7 +20,7 @@ var vector = new ol.layer.Vector({
   }),
   style: new ol.style.Style({
     stroke: new ol.style.Stroke({
-      color: 'rgb(255,0,0)',
+      color: 'rgba(255,0,0,0.8)',
       width: 6
     }),
   })
