@@ -7,7 +7,7 @@ body{
 	font-size: 1.2em;
 	line-height: 2;
 	font-weight: 600;
-	background-color: whitesmoke;	
+	background-color: whitesmoke;
 }
 
 img{
@@ -38,4 +38,8 @@ a:hover{
 
 ul{
 	list-style-type: none;
+}
+
+.map{
+	height: 600;
 }
