@@ -1,0 +1,144 @@
+@font-face {
+  font-family: 'SuisseIntl-Book-WebS';
+  src: url('font/SuisseIntl-Book-WebS.eot'); /* IE9 Compat Modes */
+  src: url('font/SuisseIntl-Book-WebS.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('font/SuisseIntl-Book-WebS.woff2') format('woff2'), /* Super Modern Browsers */
+       url('font/SuisseIntl-Book-WebS.woff') format('woff'), /* Pretty Modern Browsers */
+       url('font/SuisseIntl-Book-WebS.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('font/SuisseIntl-Book-WebS.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	font: 1.1em 'SuisseIntl-Book-WebS', sans-serif;
+}
+
+p, h1, h2, h3, h4, h5{
+	-webkit-margin-before: 0em;
+	-webkit-margin-after: 0em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+}
+
+p{
+	margin-bottom: 0.5em;
+}
+
+.wrapper{
+	width: 90%;
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header img{
+	margin: 3em 0 2em;
+	max-width: 100%;
+}
+
+.baseline{
+	margin-bottom: 3em;
+}
+
+h1{
+	padding: 0.4em 0;
+	font-size: 1.4em;
+}
+
+h2{
+	font-size: 1.3em;
+	margin-bottom: 0.5em;
+}
+
+h3{
+	font-size: 1em;
+	margin-bottom: 0.5em;
+}
+
+footer{
+	text-align:center;
+	margin-top: 3em;
+}
+
+footer p{
+	padding: 2em 0;
+	margin: 0;
+}
+
+footer a, footer a:visited{
+text-decoration: none;
+}
+
+
+#spots h3{
+	margin: 1em 0 0.5em;
+}
+
+a, a:visited{
+	color: rgba(0, 0, 0, 1);
+}
+
+#checklist{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.spot{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin:0 -0.5em 2em -0.5em;
+}
+
+.map {
+	flex: 1 200px;
+	height: 500px;
+	border: 2px solid;
+	margin: 0 .5em 1em;
+}
+
+@media all and (max-width: 800px) {
+	.map {
+    margin-right: 40px;
+	}
+}
+
+.description{
+	flex:0,1,auto;
+	max-width: 26em;
+	margin:0 .5em;
+}
+
+.photos img{
+  width: 100%;
+  margin: .5em;
+}
+
+@media all and (min-width: 600px) {
+
+	.list{
+		width: 50%;
+	}
+
+	.list ul{
+		padding-right: 5%;
+	}
+
+	h1{
+		padding: 0.4em 0;
+		font-size: 1.6em;
+	}
+
+	h2{
+		font-size: 1.5em;
+		margin-bottom: 0.5em;
+	}
+
+	h3{
+		font-size: 1.2em;
+		margin-bottom: 0.5em;
+	}
+
+}
