@@ -1,0 +1,27 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.2em;
+  font-weight: 600;
+  background: url(instagram.jpg) no-repeat left bottom fixed;
+  background-size: cover;
+  color: midnightblue; }
+
+nav {
+  margin: 1em;
+  background-color: rgba(255, 255, 255, 0.8);
+  max-width: 26em; }
+
+ul {
+  margin: 0;
+  padding: 1em;
+  list-style-type: none; }
+
+li {
+  padding-bottom: 1.2em; }
+
+a {
+  text-decoration: none;
+  color: midnightblue; }
+
+a:hover {
+  text-decoration: underline; }
