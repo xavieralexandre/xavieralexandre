@@ -5,7 +5,7 @@ var map = new ga.Map({
   interactions: ol.interaction.defaults({mouseWheelZoom: false, dragPan: false}),
   view: new ol.View({
     resolution: 10,
-    center: [568745.35, 117176.52]
+    center: [586000, 122000]
   }),
 });
 
