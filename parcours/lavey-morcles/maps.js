@@ -1,5 +1,5 @@
 var layer = ga.layer.create('ch.swisstopo.pixelkarte-grau');
-var map_lavey = new ga.Map({
+var map = new ga.Map({
   target: 'map',
   layers: [layer],
   interactions: ol.interaction.defaults({mouseWheelZoom: false, dragPan: false}),
