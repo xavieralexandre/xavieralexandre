@@ -1,6 +1,6 @@
 var layer = ga.layer.create('ch.swisstopo.pixelkarte-grau');
 var map_lavey = new ga.Map({
-  target: 'map_lavey',
+  target: 'map',
   layers: [layer],
   interactions: ol.interaction.defaults({mouseWheelZoom: false, dragPan: false}),
   view: new ol.View({
@@ -12,7 +12,7 @@ var map_lavey = new ga.Map({
 // Create the KML Layer
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://xavieralexandre.org/parcours/lavey-morcles.kml',
+    url: 'http://xavieralexandre.org/parcours/derborence/derborence.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),
@@ -25,4 +25,4 @@ var vector = new ol.layer.Vector({
     }),
   })
 });
-map_lavey.addLayer(vector);
+map.addLayer(vector);

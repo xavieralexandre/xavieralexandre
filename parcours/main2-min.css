@@ -2,13 +2,13 @@ body{
 	font-size: 1.2em;
 	font-weight: 600;
 	font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
-	background: url(instagram.jpg) no-repeat left bottom fixed;
+	background: url(map.png) no-repeat left bottom fixed;
 	background-size: cover;
 }
 
 nav{
 	margin: 1em;
-	background-color: rgba(255, 255, 255, 0.8);
+	background-color: rgba(255, 255, 255, .97);
 	max-width: 26em;
 }
 
