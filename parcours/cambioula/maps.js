@@ -1,6 +1,6 @@
 var layer = ga.layer.create('ch.swisstopo.pixelkarte-grau');
 var map_lavey = new ga.Map({
-  target: 'map',
+  target: 'map3',
   layers: [layer],
   interactions: ol.interaction.defaults({mouseWheelZoom: false, dragPan: false}),
   view: new ol.View({
@@ -25,4 +25,4 @@ var vector = new ol.layer.Vector({
     }),
   })
 });
-map.addLayer(vector);
+map3.addLayer(vector);
