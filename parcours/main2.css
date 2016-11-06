@@ -2,24 +2,28 @@ body{
 	font-size: 1.2em;
 	font-weight: 600;
 	font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
-	background: url(map.png) no-repeat left bottom fixed;
-	background-size: cover;
 }
 
+h2{
+	padding: 2rem 2rem 0 2rem;
+	margin:0;
+}
+
+
 nav{
-	margin: 1em;
+	padding: 0 0;
 	background-color: rgba(255, 255, 255, .97);
-	max-width: 26em;
+	max-width: 18em;
 }
 
 ul{
 	margin:0;
-	padding: 1em;
+	padding: 1rem 3rem;
 	list-style-type: none;
 }
 
 li{
-	padding-bottom: 1.2em;
+	padding-bottom: 1.2rem;
 }
 
 a{
@@ -29,4 +33,14 @@ a{
 
 a:hover{
 	text-decoration: underline
+}
+
+.map{
+	position: fixed;
+	top:0;
+	left:0;
+  width:100%;
+  height: 100%;
+  margin: 0;
+	z-index: -1;
 }
