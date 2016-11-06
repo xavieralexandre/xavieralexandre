@@ -62,3 +62,21 @@ var vector = new ol.layer.Vector({
   })
 });
 map.addLayer(vector);
+
+// Create the KML Layer
+var vector = new ol.layer.Vector({
+  source: new ol.source.Vector({
+    url: 'http://xavieralexandre.org/parcours/gruyeres/gruyeres.kml',
+    format : new ol.format.KML({
+      projection: 'EPSG:21781'
+    }),
+    extractStyles: true
+  }),
+  style: new ol.style.Style({
+    stroke: new ol.style.Stroke({
+      color: 'rgba(255,0,0,0.8)',
+      width: 6
+    }),
+  })
+});
+map.addLayer(vector);
