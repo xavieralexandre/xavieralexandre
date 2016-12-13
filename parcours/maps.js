@@ -19,7 +19,6 @@ var map_track = function(kml) {
     url: 'http://xavieralexandre.org/parcours/' + kml + '/' + kml + '.kml',
     format: new ol.format.KML({})
   });
-
   var vector = new ol.layer.Vector({
     source: source,
     style: new ol.style.Style({
@@ -66,5 +65,5 @@ var allIds = [];
 for (var i = 0, n = allElements.length; i < n; ++i) {
   var el = allElements[i];
   if (el.id) { allIds.push(el.id); }
-  map_track(el.id)
+  map_track(el.id);
 }

@@ -2,6 +2,7 @@ body{
 	font-size: 1.2em;
 	font-weight: 600;
 	font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+	width: 18.5em;
 }
 
 h2{
@@ -13,7 +14,7 @@ h2{
 nav{
 	padding: 0 0;
 	background-color: rgba(255, 255, 255, .97);
-	max-width: 18em;
+	width: 18em;
 }
 
 ul{
@@ -43,4 +44,8 @@ a:hover{
   height: 100%;
   margin: 0;
 	z-index: -1;
+}
+
+.ol-zoom, .ol-scale-line{
+	margin-left:18.5em;
 }
