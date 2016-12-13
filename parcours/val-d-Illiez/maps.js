@@ -5,14 +5,14 @@ var map = new ga.Map({
   interactions: ol.interaction.defaults({mouseWheelZoom: false, dragPan: false}),
   view: new ol.View({
     resolution: 10,
-    center: [568745.35, 117176.52]
+    center: [559000, 116000]
   }),
 });
 
 // Create the KML Layer
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://xavieralexandre.org/parcours/lavey-morcles/lavey-morcles.kml',
+    url: 'http://xavieralexandre.org/parcours/val-d-Illiez/val-d-Illiez.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),
