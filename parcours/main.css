@@ -22,6 +22,15 @@ p{
   margin: 0 2em;
 }
 
+.photos{
+  width:100%;
+  text-align: center;
+  padding: 2em;
+}
+
+.photos img{
+  max-width:50%;
+}
 header img{
   margin: 3em 0 2em;
   max-width: 100%;
