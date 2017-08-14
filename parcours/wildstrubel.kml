@@ -46,7 +46,7 @@
         <Icon>
           <href>http://xavieralexandre.org/parcours/assets/bed.png</href>
         </Icon>
-        <hotSpot x="0.5"  y="0" xunits="fraction" yunits="fraction"/>    <!-- kml:vec2 -->
+        <hotSpot x="0.5"  y="-.5" xunits="fraction" yunits="fraction"/>    <!-- kml:vec2 -->
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -58,7 +58,7 @@
         <Icon>
           <href>http://xavieralexandre.org/parcours/assets/gravel.png</href>
         </Icon>
-        <hotSpot x="0"  y="0.5" xunits="fraction" yunits="fraction"/>    <!-- kml:vec2 -->
+        <hotSpot x="1"  y="0.5" xunits="fraction" yunits="fraction"/>    <!-- kml:vec2 -->
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
