@@ -218,6 +218,10 @@
 
     <Placemark>
       <name>Gsteig - Hahnenmoospass</name>
+      <description>
+        <![CDATA[<a href="https://map.veloland.ch/?lang=fr&route=all&bgLayer=pk&resolution=50&E=2595573&N=1145984&trackId=3808680&layers=Veloland">map.veloland.ch</a><br>
+        <img src="http://xavieralexandre.org/parcours/wildstrubel/1.2.png" alt="Profil du parcours">]]>
+      </description>
       <styleUrl>#path</styleUrl>
       <LineString>
         <coordinates>
@@ -312,6 +316,10 @@
 
     <Placemark>
       <name>Hahnenmoospass - Kandersteg</name>
+      <description>
+        <![CDATA[<a href="https://map.veloland.ch/?lang=fr&route=all&bgLayer=pk&resolution=50&E=2611212&N=1151819&trackId=3809427&layers=Veloland">map.veloland.ch</a><br>
+        <img src="http://xavieralexandre.org/parcours/wildstrubel/2.1.png" alt="Profil du parcours">]]>
+      </description>
       <styleUrl>#path</styleUrl>
       <LineString>
         <coordinates>
@@ -429,6 +437,10 @@
 
     <Placemark>
       <name>Sunnbüel - Daubensee</name>
+      <description>
+        <![CDATA[<a href="https://map.veloland.ch/?lang=fr&route=all&bgLayer=pk&resolution=20&E=2614848&N=1142145&trackId=3809933&layers=Veloland">map.veloland.ch</a><br>
+        <img src="http://xavieralexandre.org/parcours/wildstrubel/2.2.png" alt="Profil du parcours">]]>
+      </description>
       <styleUrl>#path</styleUrl>
       <LineString>
         <coordinates>
@@ -548,6 +560,10 @@
 
     <Placemark>
       <name>Loeche les bains - Sierre</name>
+      <description>
+        <![CDATA[<a href="https://map.veloland.ch/?lang=fr&route=all&bgLayer=pk&resolution=20&E=2610730&N=1131366&trackId=3793266&layers=Veloland">map.veloland.ch</a><br>
+        <img src="http://xavieralexandre.org/parcours/wildstrubel/2.3.png" alt="Profil du parcours">]]>
+      </description>
       <styleUrl>#path</styleUrl>
       <LineString>
         <coordinates>
