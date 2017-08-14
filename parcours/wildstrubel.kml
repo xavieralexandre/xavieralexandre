@@ -286,5 +286,17 @@
       </LineString>
     </Placemark>
 
+    <Placemark>
+        <styleUrl>#end</styleUrl>
+        <name>Sierre</name>
+        <description>
+        </description>
+        <Point>
+            <coordinates>
+              7.527525529451715,46.283809518918204
+            </coordinates>
+        </Point>
+    </Placemark>
+
   </Document>
 </kml>
