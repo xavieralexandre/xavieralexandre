@@ -13,8 +13,8 @@
 
     <Style id="cablecar">
       <LineStyle>
-        <color>cc67acd6</color>
-        <width>3</width>
+        <color>cc000000</color>
+        <width>6</width>
       </LineStyle>
     </Style>
 
@@ -244,7 +244,7 @@
         </coordinates>
       </Point>
     </Placemark>
-    
+
     <Placemark>
       <name>Hahnenmoospass - Kandersteg</name>
       <styleUrl>#path</styleUrl>
