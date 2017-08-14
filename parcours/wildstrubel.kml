@@ -8,7 +8,7 @@
     <Style id="car_left">
       <IconStyle>
         <Icon>
-          <href>http://xavieralexandre.org/parcours/cablecar.png</href>
+          <href>http://xavieralexandre.org/Assets/Cabin.png</href>
         </Icon>
         <hotSpot x="1"  y="0.5" xunits="fraction" yunits="fraction"/>    <!-- kml:vec2 -->
       </IconStyle>
@@ -20,7 +20,7 @@
     <Style id="car_right">
       <IconStyle>
         <Icon>
-          <href>http://xavieralexandre.org/parcours/cablecar.png</href>
+          <href>http://xavieralexandre.org/Assets/Cabin.png</href>
         </Icon>
         <hotSpot x="0"  y="0.5" xunits="fraction" yunits="fraction"/>    <!-- kml:vec2 -->
       </IconStyle>
@@ -32,7 +32,7 @@
     <Style id="auberge">
       <IconStyle>
         <Icon>
-          <href>http://xavieralexandre.org/parcours/auberge.png</href>
+          <href>http://xavieralexandre.org/Assets/Sleep.png</href>
         </Icon>
         <hotSpot x="0.5"  y="0" xunits="fraction" yunits="fraction"/>    <!-- kml:vec2 -->
       </IconStyle>
@@ -44,7 +44,7 @@
     <Style id="gravel">
       <IconStyle>
         <Icon>
-          <href>http://xavieralexandre.org/parcours/gravel.png</href>
+          <href>http://xavieralexandre.org/Assets/Gravel.png</href>
         </Icon>
         <hotSpot x="0"  y="0.5" xunits="fraction" yunits="fraction"/>    <!-- kml:vec2 -->
       </IconStyle>
