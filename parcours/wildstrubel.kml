@@ -88,7 +88,6 @@
       <styleUrl>#end</styleUrl>
       <description>
         <![CDATA[<a href="http://fahrplan.sbb.ch/bin/query.exe/fr?_charset_=utf-8&REQ0JourneyStopsSID=A=1@L=1@O=Lausanne&REQ0JourneyStopsZID=A=1@L=1@O=Sion">Horaire CFF</a>]]>
-      </description>
     </description>
     <Point>
       <coordinates>
