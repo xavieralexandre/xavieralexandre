@@ -194,6 +194,18 @@
     </Placemark>
 
     <Placemark>
+        <styleUrl>#end</styleUrl>
+        <name>Berghotel Hahnenmoospass</name>
+        <description>
+        </description>
+        <Point>
+            <coordinates>
+              7.494876531226941,46.45310051947739
+            </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
       <styleUrl>#path</styleUrl>
       <LineString>
         <coordinates>
