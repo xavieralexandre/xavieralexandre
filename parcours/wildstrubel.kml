@@ -131,7 +131,8 @@
     <Placemark>
       <name>Téléphérique Sanetsch-Gsteig</name>
       <description>
-        <![CDATA[<a href="http://www.seilbahnsanetsch.ch/de/fahrplan-preise-2.html">seilbahnsanetsch.ch</a>]]>
+        <![CDATA[<a href="http://www.seilbahnsanetsch.ch/de/fahrplan-preise-2.html">seilbahnsanetsch.ch</a><br>
+        <a href="http://fahrplan.sbb.ch/bin/query.exe/fr?_charset_=utf-8&REQ0JourneyStopsSID=A=1@L=1@O=Sanetsch-Stausee&REQ0JourneyStopsZID=A=1@L=1@O=Innergsteig">Horaire CFF</a>]]>
       </description>
       <styleUrl>#car_left</styleUrl>
       <Point>
@@ -209,7 +210,8 @@
     <Placemark>
       <name>Luftseilbahn Kandersteg - Sunnbüel</name>
       <description>
-        <![CDATA[<a href="http://www.sunnbuel.ch/luftseilbahn/fahrplan/">sunnbuel.ch</a>]]>
+        <![CDATA[<a href="http://www.sunnbuel.ch/luftseilbahn/fahrplan/">sunnbuel.ch</a><br>
+        <a href="http://fahrplan.sbb.ch/bin/query.exe/fr?_charset_=utf-8&REQ0JourneyStopsSID=A=1@L=1@O=Kandersteg LKS&REQ0JourneyStopsZID=A=1@L=1@O=Sunnbüel">Horaire CFF</a>]]>
       </description>
       <styleUrl>#cablecar</styleUrl>
       <LineString>
@@ -222,7 +224,8 @@
     <Placemark>
       <name>Luftseilbahn Kandersteg - Sunnbüel</name>
       <description>
-        <![CDATA[<a href="http://www.sunnbuel.ch/luftseilbahn/fahrplan/">sunnbuel.ch</a>]]>
+        <![CDATA[<a href="http://www.sunnbuel.ch/luftseilbahn/fahrplan/">sunnbuel.ch</a><br>
+        <a href="http://fahrplan.sbb.ch/bin/query.exe/fr?_charset_=utf-8&REQ0JourneyStopsSID=A=1@L=1@O=Kandersteg LKS&REQ0JourneyStopsZID=A=1@L=1@O=Sunnbüel">Horaire CFF</a>]]>
       </description>
       <styleUrl>#car_right</styleUrl>
       <Point>
@@ -317,7 +320,8 @@
     <Placemark>
       <name>Téléphérique de la Gemmi</name>
       <description>
-        <![CDATA[<a href="http://gemmi.ch/highlights/gemmibahn/prix-telepherique/?L=1">gemmi.ch</a>]]>
+        <![CDATA[<a href="http://gemmi.ch/highlights/gemmibahn/prix-telepherique/?L=1">gemmi.ch</a><br>
+        <a href="http://fahrplan.sbb.ch/bin/query.exe/fr?_charset_=utf-8&REQ0JourneyStopsSID=A=1@L=1@O=Gemmipass&REQ0JourneyStopsZID=A=1@L=1@O=Leukerbad LLG">Horaire CFF</a>]]>
       </description>
       <styleUrl>#cablecar</styleUrl>
       <LineString>
@@ -330,7 +334,8 @@
     <Placemark>
       <name>Téléphérique de la Gemmi</name>
       <description>
-        <![CDATA[<a href="http://gemmi.ch/highlights/gemmibahn/prix-telepherique/?L=1">gemmi.ch</a>]]>
+        <![CDATA[<a href="http://gemmi.ch/highlights/gemmibahn/prix-telepherique/?L=1">gemmi.ch</a><br>
+        <a href="http://fahrplan.sbb.ch/bin/query.exe/fr?_charset_=utf-8&REQ0JourneyStopsSID=A=1@L=1@O=Gemmipass&REQ0JourneyStopsZID=A=1@L=1@O=Leukerbad LLG">Horaire CFF</a>]]>
       </description>
       <styleUrl>#car_right</styleUrl>
       <Point>
