@@ -13,7 +13,7 @@
 
     <Style id="cablecar">
       <LineStyle>
-        <color>cc000000</color>
+        <color>ccffffff</color>
         <width>6</width>
       </LineStyle>
     </Style>
