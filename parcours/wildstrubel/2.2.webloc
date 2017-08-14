@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://map.veloland.ch/?lang=fr&amp;route=all&amp;bgLayer=pk&amp;resolution=10&amp;E=2614848&amp;N=1142145&amp;trackId=3809933&amp;layers=Veloland</string>
+</dict>
+</plist>
