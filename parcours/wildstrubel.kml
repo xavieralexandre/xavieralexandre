@@ -87,7 +87,7 @@
       <name>Gare CFF Sion</name>
       <styleUrl>#end</styleUrl>
       <description>
-        <a href="http://fahrplan.sbb.ch/bin/query.exe/fr?_charset_=utf-8&REQ0JourneyStopsSID=A=1@L=1@O=Sierre&REQ0JourneyStopsZID=A=1@L=1@O=Lausanne">Horaire CFF</a>
+        <a href="http://fahrplan.sbb.ch/bin/query.exe/fr?_charset_=utf-8&REQ0JourneyStopsSID=A=1@L=1@O=Lausanne&REQ0JourneyStopsZID=A=1@L=1@O=Sion">Horaire CFF</a>
       </description>
     </description>
     <Point>
