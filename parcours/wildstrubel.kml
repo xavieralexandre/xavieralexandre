@@ -451,7 +451,6 @@
     <Placemark>
       <name>Loeche les bains</name>
       <styleUrl>#end</styleUrl>
-      <description></description>
       <Point>
         <coordinates>
           7.625963529778469,46.383388518680924
@@ -460,6 +459,7 @@
     </Placemark>
 
     <Placemark>
+      <name>Loeche les bains - Sierre</name>
       <styleUrl>#path</styleUrl>
       <LineString>
         <coordinates>
