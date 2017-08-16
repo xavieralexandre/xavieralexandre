@@ -184,6 +184,7 @@
         <![CDATA[<a href="http://www.seilbahnsanetsch.ch/de/fahrplan-preise-2.html">seilbahnsanetsch.ch</a><br>
         <a href="http://fahrplan.sbb.ch/bin/query.exe/fr?_charset_=utf-8&REQ0JourneyStopsSID=A=1@L=1@O=Sanetsch-Stausee&REQ0JourneyStopsZID=A=1@L=1@O=Innergsteig">Horaire CFF</a>]]>
       </description>
+<<<<<<< HEAD
       <multigeometry>
         <Point>
           <styleUrl>#car_left</styleUrl>
@@ -198,6 +199,19 @@
           </coordinates>
         </LineString>
       </multigeometry>
+=======
+      <styleUrl>#car_left</styleUrl>
+      <Point>
+        <coordinates>
+          7.29,46.37
+        </coordinates>
+      </Point>
+      <LineString>
+        <coordinates>
+          7.295048330455104,46.36314911180581 7.280391904702646,46.37622261891074
+        </coordinates>
+      </LineString>
+>>>>>>> parent of ecae133... Reverse previous change
     </Placemark>
 
     <Placemark>
