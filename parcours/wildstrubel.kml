@@ -181,21 +181,28 @@
     <Placemark>
       <name>Téléphérique Sanetsch-Gsteig</name>
       <description>
-        <![CDATA[<a href="http://www.seilbahnsanetsch.ch/de/fahrplan-preise-2.html">seilbahnsanetsch.ch</a><br>
-        <a href="http://fahrplan.sbb.ch/bin/query.exe/fr?_charset_=utf-8&REQ0JourneyStopsSID=A=1@L=1@O=Sanetsch-Stausee&REQ0JourneyStopsZID=A=1@L=1@O=Innergsteig">Horaire CFF</a>]]>
+        <![CDATA[<a href="http://www.seilbahnsanetsch.ch/de/fahrplan-preise-2.html">seilbahnsanetsch.ch</a>]]>
       </description>
-      <Point>
-        <styleUrl>#car_left</styleUrl>
-        <coordinates>
-          7.29,46.37
-        </coordinates>
-      </Point>
+      <styleUrl>#cablecar</styleUrl>
       <LineString>
-        <styleUrl>#cablecar</styleUrl>
         <coordinates>
           7.295048330455104,46.36314911180581 7.280391904702646,46.37622261891074
         </coordinates>
       </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Téléphérique Sanetsch-Gsteig</name>
+      <description>
+        <![CDATA[<a href="http://www.seilbahnsanetsch.ch/de/fahrplan-preise-2.html">seilbahnsanetsch.ch</a><br>
+        <a href="http://fahrplan.sbb.ch/bin/query.exe/fr?_charset_=utf-8&REQ0JourneyStopsSID=A=1@L=1@O=Sanetsch-Stausee&REQ0JourneyStopsZID=A=1@L=1@O=Innergsteig">Horaire CFF</a>]]>
+      </description>
+      <styleUrl>#car_left</styleUrl>
+      <Point>
+        <coordinates>
+          7.29,46.37
+        </coordinates>
+      </Point>
     </Placemark>
 
     <Placemark>
