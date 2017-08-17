@@ -36,7 +36,7 @@
         <Icon>
           <href>http://xavieralexandre.org/parcours/assets/cablecar_left.png</href>
         </Icon>
-        <hotSpot x="1" y="0" xunits="fraction" yunits="fraction"/>
+        <hotSpot x="1" y="1" xunits="fraction" yunits="fraction"/>
         <!-- kml:vec2 -->
       </IconStyle>
       <LabelStyle>
@@ -544,7 +544,7 @@
       <styleUrl>#car_right</styleUrl>
       <Point>
         <coordinates>
-          7.624,46.39
+          7.6187,46.394
         </coordinates>
       </Point>
     </Placemark>
