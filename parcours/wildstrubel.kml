@@ -404,7 +404,6 @@
         <![CDATA[<a href="http://www.sunnbuel.ch/luftseilbahn/fahrplan/">sunnbuel.ch</a><br>
     <a href="http://fahrplan.sbb.ch/bin/query.exe/fr?_charset_=utf-8&REQ0JourneyStopsSID=A=1@L=1@O=Kandersteg LKS&REQ0JourneyStopsZID=A=1@L=1@O=Sunnbüel">Horaire CFF</a>]]>
       </description>
-
       <Placemark>
         <styleUrl>#cablecar</styleUrl>
         <LineString>
@@ -413,7 +412,6 @@
           </coordinates>
         </LineString>
       </Placemark>
-
       <Placemark>
         <styleUrl>#car_right</styleUrl>
         <Point>
