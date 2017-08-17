@@ -536,6 +536,16 @@
     </Placemark>
 
     <Placemark>
+      <name>Loeche les bains</name>
+      <styleUrl>#end</styleUrl>
+      <Point>
+        <coordinates>
+          7.625963529778469,46.383388518680924
+        </coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
       <name>Téléphérique de la Gemmi</name>
       <description>
         <![CDATA[<a href="http://gemmi.ch/highlights/gemmibahn/prix-telepherique/?L=1">gemmi.ch</a><br>
@@ -548,17 +558,7 @@
         </coordinates>
       </Point>
     </Placemark>
-
-    <Placemark>
-      <name>Loeche les bains</name>
-      <styleUrl>#end</styleUrl>
-      <Point>
-        <coordinates>
-          7.625963529778469,46.383388518680924
-        </coordinates>
-      </Point>
-    </Placemark>
-
+    
     <Placemark>
       <name>Loeche les bains - Sierre</name>
       <description>
