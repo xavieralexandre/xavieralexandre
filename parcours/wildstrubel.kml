@@ -34,9 +34,9 @@
     <Style id="car_left">
       <IconStyle>
         <Icon>
-          <href>http://xavieralexandre.org/parcours/assets/cablecar.png</href>
+          <href>http://xavieralexandre.org/parcours/assets/cablecar_left.png</href>
         </Icon>
-        <hotSpot x="1" y="1" xunits="fraction" yunits="fraction"/>
+        <hotSpot x="1" y="0" xunits="fraction" yunits="fraction"/>
         <!-- kml:vec2 -->
       </IconStyle>
       <LabelStyle>
@@ -47,9 +47,9 @@
     <Style id="car_right">
       <IconStyle>
         <Icon>
-          <href>http://xavieralexandre.org/parcours/assets/cablecar.png</href>
+          <href>http://xavieralexandre.org/parcours/assets/cablecar_right.png</href>
         </Icon>
-        <hotSpot x="-0.1" y="0.5" xunits="fraction" yunits="fraction"/>
+        <hotSpot x="0" y="0.5" xunits="fraction" yunits="fraction"/>
         <!-- kml:vec2 -->
       </IconStyle>
       <LabelStyle>
