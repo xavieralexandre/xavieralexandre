@@ -49,7 +49,7 @@
         <Icon>
           <href>http://xavieralexandre.org/parcours/assets/cablecar.png</href>
         </Icon>
-        <hotSpot x="0" y="0.5" xunits="fraction" yunits="fraction"/>
+        <hotSpot x="-0.3" y="0.5" xunits="fraction" yunits="fraction"/>
         <!-- kml:vec2 -->
       </IconStyle>
       <LabelStyle>
@@ -558,7 +558,7 @@
         </coordinates>
       </Point>
     </Placemark>
-    
+
     <Placemark>
       <name>Loeche les bains - Sierre</name>
       <description>
