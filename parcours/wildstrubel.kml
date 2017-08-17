@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 
   <Document>
-    <name>Tour du Wildstrubel</name>
+    <name>Tour du Wildstrubel à vélo</name>
 
     <Style id="path">
       <LineStyle>
@@ -302,7 +302,6 @@
           </coordinates>
         </Point>
       </Placemark>
-
       <Placemark>
         <styleUrl>#auberge</styleUrl>
         <Point>
