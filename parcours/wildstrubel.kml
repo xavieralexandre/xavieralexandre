@@ -60,7 +60,7 @@
     <Style id="auberge">
       <IconStyle>
         <Icon>
-          <href>http://xavieralexandre.org/parcours/assets/coffee.svg</href>
+          <href>http://xavieralexandre.org/parcours/assets/bed.svg</href>
         </Icon>
         <hotSpot x="0.5" y="-.5" xunits="fraction" yunits="fraction"/>
         <!-- kml:vec2 -->
