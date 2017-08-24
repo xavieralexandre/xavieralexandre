@@ -88,7 +88,7 @@
         <Icon>
           <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAA21BMVEUAAAD////////////////////////////9+vT9+vb9+/f+/Pj+/Pn////68+n68+r69ev79ez79u779/D27Nv27N337d747+L58eX059L16dfv38Tv4MXw4Mbw4sjt2rvt273t3L7u3L/u3cDu3sL////p063q1bLmzKLmzqTnz6bo0arjxpbjx5jkyJrmyp7hwY3jxZTu3L/z59LfvYfgvoj69u779u/as3Thwo3iw5D////XrWjXrmnYr2vYsG3YsG7ZsW7ZsW/Zs3Tas3LatHX////WrGf///9M2xhAAAAAR3RSTlMAMDSCpqnV5/Ly8vLy8vPz8/Pz8/T09PT09fX29vb29/f39/f39/j4+fn5+fr6+vr7+/v7/Pz8/P39/f3+/v7+/v7+/v7+/hXXe/4AAAGTSURBVHjazZTbUsIwEEALIqgYxSt4FxRBxBsqCBERqDn7/19kktGWoTjgm+chSXfO7DTt7gbfpDO5qpYJdDWXSQeTpLJGZmCyqdhZ0mLard6YCca9VtuIXvpxlo10usyg2xGz/J3HmCd+4ckYnyulxTnDWjGvJsgXa0NniXbvlZUO8LClEmw9AB3J2rsb07WOj26X62cFpQpn9fK2D1ira0w6yEgbhj7PYQiMDg5GQHjocw2hLZkgJy2oucjKiMeLWwYDbi8eGa24WA1akguq0oOiC1zRtOsd3NmtyZWLFaEn1UDLGPy9Xti16x7s222XF39HGIsORADlCFm16xqs2W2V0AcBkUiKiJ7+g7Rx2WhUSk4qVRqNy40ZUv6mD/B2DddvAP2b9YTUpH9/Xq6/A7zXy+f3fZrT0hFhSVk2X+F1051KIUdT0jMnynMKp8pzzPOU9MGO8uwQnz7+8gmiHzxbysOn6KhUklJcKlHRJaW46KLyTUpx+UaNkJTiRlikpRZszvltvujAmD96Fh9i88fhF3ISxqKtEYi1AAAAAElFTkSuQmCC</href>
         </Icon>
-        <hotSpot x="1" y="1" xunits="fraction" yunits="fraction"/>
+        <hotSpot x="0" y="1.1" xunits="fraction" yunits="fraction"/>
         <!-- kml:vec2 -->
       </IconStyle>
       <LabelStyle>
