@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>thermes</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="thermes">
+            <g id="Icône-background" fill="#FFFFFF" fill-opacity="0.95">
+                <rect x="0" y="0" width="36" height="36" rx="12"></rect>
+            </g>
+            <g id="Icône-border">
+                <rect stroke="#D6AC67" stroke-width="3" x="3.5" y="3.5" width="29" height="29" rx="10"></rect>
+                <rect stroke="#FFFFFF" stroke-width="2" x="1" y="1" width="34" height="34" rx="12"></rect>
+            </g>
+            <path d="M18,29 C18,28.9495354 18,26.9495354 18,23 C18,16.7115446 8,16.8632812 8,23" id="Water" stroke="#D6AC67" stroke-width="2"></path>
+            <path d="M28,29 C28,28.9495354 28,26.9495354 28,23 C28,16.7115446 18,16.8632812 18,23" id="Water" stroke="#D6AC67" stroke-width="2" transform="translate(23.000000, 23.670193) scale(-1, 1) translate(-23.000000, -23.670193) "></path>
+            <path d="M25,29 C25,22.2828687 25,16.9495354 25,13 C25,6.71154455 18,6.86328125 18,13" id="Water" stroke="#D6AC67" stroke-width="2" transform="translate(21.500000, 18.670193) scale(-1, 1) translate(-21.500000, -18.670193) "></path>
+            <path d="M18,29 C18,22.2828687 18,16.9495354 18,13 C18,6.71154455 11,6.86328125 11,13" id="Water" stroke="#D6AC67" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>
