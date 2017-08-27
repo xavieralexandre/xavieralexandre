@@ -396,6 +396,7 @@
       <styleUrl>#auberge</styleUrl>
       <Style id="end">
         <IconStyle>
+            <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAkFBMVEUAAAD////////////////////////////////+/Pj////69ev79ez79u747+L059L16tj////v38P////p067q1bL////nz6f////jyJnhwY3ixJLjxJLu3L/z59LduX3fvIX69u779u/btXfhwo3iw5D////Yr2rYr2vZsW7ZsnHZs3TatHX////WrGf////h20xVAAAALnRSTlMAAgVNUYOn1eLy8vPz8/T19fX29/j4+Pn5+vv7+/v7/Pz8/P39/f3+/v7+/v7+3E8jywAAASBJREFUeAG1lN1SgzAUhFPKD0SkYgWxlCo/oIhnz/u/nS0aZSTR3PhdfzObmexZMeO4fpgPxAtoyEPfdcQX26Ag1kBFsP1UNl5KTHXVT1gw9VVNTKm3mSVvT9x00NA1THtvzkqJTjBwIkrPiU5AfHHGLInkgijJxovFFDjCLbgBcIjlivgAoOHCFT5Rd3aklrPVEfki5BoYY70Uj0DNoci5AjJpIAMqzsXAPZCYpAToeRDEExCZpAiYmAQzAGkEAPM/SGVpIQFy17a7P6UWaOXr08Pd7c317xI+eHk83pvj8I1Osnn4mucrCwkaaZ2k4tQHG6QIeGNSVdFKqiqqdHpJlU7Vtzz+lMqjqq/VIVidlNVx2py5zWBYTY/liFnN4TvNVYSfW/FGsQAAAABJRU5ErkJggg==</href>
           <hotSpot x="0.5" y="1" xunits="fraction" yunits="fraction"/>
         </IconStyle>
         <LabelStyle>
