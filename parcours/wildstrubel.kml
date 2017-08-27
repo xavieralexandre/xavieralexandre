@@ -396,12 +396,12 @@
       <Lod>
         <minLodPixels>128</minLodPixels>
       </Lod>
-      <LatLonBox>
+      <LatLonAltBox>
         <north>46.4</north>
         <south>46.2</south>
         <east>7.4</east>
         <west>7.5</west>
-      </LatLonBox>
+      </LatLonAltBox>
 
       <Placemark>
         <styleUrl>#auberge</styleUrl>
