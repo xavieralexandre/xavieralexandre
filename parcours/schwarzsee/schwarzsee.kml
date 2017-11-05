@@ -136,6 +136,19 @@
     </Placemark>
 
     <Placemark>
+      <name>Le Baron</name>
+      <styleUrl>#resto</styleUrl>
+      <description>
+        <![CDATA[<a href="https://www.lebaroncharmey.ch/">Le Baron</a>]]>
+      </description>
+      <Point>
+        <coordinates>
+          7.17223,46.61281
+        </coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
       <name>AirBnB</name>
       <styleUrl>#auberge</styleUrl>
       <description>
