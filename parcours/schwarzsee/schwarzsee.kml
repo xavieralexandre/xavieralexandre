@@ -44,6 +44,19 @@
       </LabelStyle>
     </Style>
 
+    <Style id="resto">
+      <IconStyle>
+        <Icon>
+          <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAABGdBTUEAALGPC/xhBQAAA6dJREFUWAntWEtoE1EUzeQzza9Naj9q/FTQFlqRFgzdCELFjYJLcSm4ddeNisVFseCqK124EdyI0o0gigulqy6ECq2aqq2I0Jp+Ym20TdOk8/Geae7wOk1CEjM2Cx/c3vc958x9703nxuEoUnRdj5I9IpsnS5OpZOUWrMFaYAArWoQy/xAt6iGLkWlk1S7ABHZPPnbJ2kkTB6nvJpmTTN9Mr2hr8Ul9bX7SmU7OSWpmdccaK4bYdtXV677wQT24v1sLRrolj68RuMDQyIYkSbolzt8GTmKe0OBFMklJJ9X4+AMptTQNgKqVQGuHFole0d2+sItAdbIREnWJCUxBucgMYGBt4b06O3bPzZPs8IdOXVWC+05AFMptjpQhKLefb2nASWIUUYzLU6c3HjubbYj0KHJ9qya56gyEUv/oasaRXV1y/o5PuFe+vJLVzYwZhJwoPDi27ySJmmBBMerowjbNvLjOqh2Blg4lEr284fY3IbR/XZT1ZSk+/tCbSkyb0W8/f0fNbd8UCTrupOjgGnaS6TgzzAoxh0/3p6slBrjAAiawmSfHiQfuhBYc2H4yCbeJDzC2CZHhRaJPTD2T0bZ6npNa+OBKLcbMKHO/6IENDvSBE9xURTD6IaiPzIGrDY+CM1MoMj8+PjcOkdVvrXQ45t7c982O3fVlfn0veDuBDQ5eI3D3YVEYA3jP8AQcYK6X6zVlU6LQS4uTj4uefpFD4A5DhLEFeOkxOW4T1yv1qcSMO7381XxIK47IIXDLWGAsEt/A5V5tKxm3k9/GPFy3epFD4HYWfAIrQCXt9cRn83qXur4iQUuxp8Y2L74bKXpOlI2keQxsE+Tf06Ysf3ppCPk581qW/U0Fz5tLDpo31zZBbX030qHDvcaVDbX1Zo+eG0oVIqP/7mXf1oq2zBNoNp7c49/y+QTJgWatpetCJt9Ysb6KBBUD5LEjZ66t05Zxs2RvmyCXXF/2+YFq2wSVHBLLxP+CLAHZ0azJCBkvNmQHLBefnXYXkcPtbWBuDREyXnJIVVgEvoG5bpcXObyhA8ydBXESpMibmBwf5Fy3y4scAncSgkZBiiSOyZEd4IOc29X2wAYH4wrcoxA0TKYjo0QSh0lIVZAdoJ6vBJrbVY83pMFbx4N7OxWYtV9sA5vTIXDmslls27ARBfrkrJk0iAUh8a+dRBHhpCgNkhtAfddTaYhAIVG182PDliQzUrv2cwzr2OYpUrv2g9U2IdYGCfvnP+n9AcZdOo+LaezhAAAAAElFTkSuQmCC</href>
+        </Icon>
+        <hotSpot x="0.5" y="-.5" xunits="fraction" yunits="fraction"/>
+        <!-- kml:vec2 -->
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+
     <Style id="gravel">
       <IconStyle>
         <Icon>
@@ -98,7 +111,7 @@
 
     <Placemark>
       <name>Pinte des Mossettes</name>
-      <styleUrl>#auberge</styleUrl>
+      <styleUrl>#resto</styleUrl>
       <description>
         <![CDATA[<a href="http://lapintedesmossettes.ch">Pinte des Mossettes</a>]]>
       </description>

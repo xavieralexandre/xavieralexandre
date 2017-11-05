@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>resto</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="resto">
+            <g id="Icône-background" fill="#FFFFFF" fill-opacity="0.95">
+                <rect x="0" y="0" width="36" height="36" rx="12"></rect>
+            </g>
+            <g id="Icône-border">
+                <rect stroke="#D6AC67" stroke-width="3" x="3.5" y="3.5" width="29" height="29" rx="10"></rect>
+                <rect stroke="#FFFFFF" stroke-width="2" x="1" y="1" width="34" height="34" rx="12"></rect>
+            </g>
+            <path d="M21,17.8316243 C22.3333333,17.0985564 23,16.0343112 23,14.6388889 C23,13.2434666 22.3333333,11.5305036 21,9.5 L21,28 L21,17.8316243 Z" id="Path-3" stroke="#D6AC67" stroke-width="2" fill="#D6AC67" stroke-linejoin="round"></path>
+            <path d="M14.5,15.9895879 L14.5,28" id="Line" stroke="#D6AC67" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M12.5,9 L12.5,15" id="Line" stroke="#D6AC67" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M16.5,9 L16.5,15" id="Line" stroke="#D6AC67" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M14.5,9 L14.5,14.5" id="Line" stroke="#D6AC67" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M14.5,16.35 L12.5,15 C15.1666667,15 16.5,15 16.5,15 C16.5,15 15.8333333,15.45 14.5,16.35 Z" id="Path-5" stroke="#D6AC67" fill="#D6AC67" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
