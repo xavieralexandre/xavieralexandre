@@ -24,40 +24,11 @@ var map_track = function(kml) {
     style: new ol.style.Style({
       stroke: new ol.style.Stroke({
         color: 'rgba(255,0,0,0.8)',
-        width: 2
+        width: 1
       }),
     })
   });
   map.addLayer(vector);
-
-  var zoom_to_track = function(kml) {
-    var zoomto = document.getElementById(kml);
-    zoomto.addEventListener('mouseenter', function() {
-      var duration = 1000;
-      var start = +new Date();
-      var pan = ol.animation.pan({
-        duration: duration,
-        source: map.getView().getCenter(),
-        start: start
-      });
-      var zoom = ol.animation.zoom({
-        duration: duration,
-        resolution: map.getView().getResolution(),
-        start: start
-      });
-      var bounce = ol.animation.bounce({
-        duration: duration,
-        resolution: 2 * map.getView().getResolution(),
-        start: start,
-        easing: ol.easing.upAndDown
-      });
-
-      map.beforeRender(pan, zoom, bounce);
-      var extent = source.getExtent();
-      map.getView().fitExtent(extent, map.getSize());
-    }, false);
-  };
-  zoom_to_track(kml);
 };
 
 var allElements = document.getElementsByClassName('track');
