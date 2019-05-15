@@ -1,25 +1,14 @@
 html,
 body {
-  margin: 0;
+  margin: 1em;
   padding: 0;
-  font-size: 1.1em;
+  font-size: 1em;
   font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
 }
 
-p, h1, h2, h3, h4, h5 {
-  -webkit-margin-before: 0em;
-  -webkit-margin-after: 0em;
-  -webkit-margin-start: 0px;
-  -webkit-margin-end: 0px;
-}
-
-p {
-  margin-bottom: 0.5em;
-}
-
-.wrapper {
-  max-width: 26em;
+#wrapper {
   margin: 0 2em;
+  max-width: 26em;
 }
 
 .photos {
@@ -32,28 +21,20 @@ p {
   max-width: 50%;
 }
 
-header img {
-  margin: 3em 0 2em;
-  max-width: 100%;
-}
-
-.baseline {
-  margin-bottom: 3em;
-}
-
 h1 {
   padding: 0.4em 0;
   font-size: 1.4em;
 }
 
 h2 {
-  font-size: 1.3em;
-  margin-bottom: 0.5em;
+  font-size: 1.2em;
+  margin-top: 2em;
+  margin-bottom: 0.25em;
 }
 
 h3 {
   font-size: 1em;
-  margin-bottom: 0.5em;
+  margin-bottom: 0;
 }
 
 footer {
@@ -74,43 +55,26 @@ a, a:visited {
   color: black;
 }
 
-#checklist {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.description {
-  margin-top: 1em;
-}
-
-.photos img {
-  width: 100%;
-  margin: .5em;
-}
-
-@media all and (min-width: 600px) {
-  h1 {
-    padding: 0.4em 0;
-    font-size: 1.6em;
-  }
-  h2 {
-    font-size: 1.5em;
-    margin-bottom: 0.5em;
-  }
-  h3 {
-    font-size: 1.2em;
-    margin-bottom: 0.5em;
-  }
-}
-
 .map {
-  width: 100%;
+  width: 100vw;
   height: 400px;
-  margin: 1em 0;
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
 }
 
 .olControlPanPanel {
   bottom: 55px;
   /* not 0px */
   top: auto;
+}
+
+.lieu {
+  margin: 1em;
+}
+
+@media print {
+  body {
+    font-size: 10pt;
+  }
 }
