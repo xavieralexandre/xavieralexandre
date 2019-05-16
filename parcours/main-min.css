@@ -52,7 +52,7 @@ a, a:visited {
 
 .map {
   width: 100vw;
-  height: 400px;
+  height: 180px;
   position: relative;
   left: 50%;
   margin-left: -50vw;
@@ -68,10 +68,31 @@ a, a:visited {
   margin: 1em;
 }
 
+#wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#itineraires, #lieux, #checklist {
+  max-width: 20em;
+  margin: 1em;
+}
+
 @media print {
   body {
-    font-size: 10pt;
+    font-size: 8pt;
   }
+}
+
+#itineraires {
+  display: none;
+}
+
+@page {
+  size: auto;
+  /* auto is the initial value */
+  margin: 0mm;
+  /* this affects the margin in the printer settings */
 }
 
 @media (max-width: 600px) {
