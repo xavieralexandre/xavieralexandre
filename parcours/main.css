@@ -82,10 +82,11 @@ a, a:visited{
     font-size: 8pt;
   }
 
-}
   #itineraires{
     display:none;
   }
+}
+
 
 @page 
 {
