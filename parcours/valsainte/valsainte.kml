@@ -161,6 +161,26 @@
       </Point>
     </Placemark>
 
+      <Placemark>
+      <name>Gravel</name>
+      <styleUrl>#gravel</styleUrl>
+      <Point>
+        <coordinates>
+          7.28872,46.64957
+        </coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Gravel</name>
+      <styleUrl>#gravel</styleUrl>
+      <Point>
+        <coordinates>
+          7.23383,46.66373
+        </coordinates>
+      </Point>
+    </Placemark>
+
     <Placemark>
       <name>Euschelspass</name>
       <description>
