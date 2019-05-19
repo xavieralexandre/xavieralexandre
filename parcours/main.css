@@ -50,6 +50,10 @@ a, a:visited{
   color: rgba(0, 0, 0, 1);
 }
 
+a[href^="tel:"] {
+  text-decoration: none;
+}
+
 .map{
   width:100vw;
   height: 180px;
@@ -84,6 +88,9 @@ a, a:visited{
 
   #itineraires{
     display:none;
+  }
+  a{
+    text-decoration: none;
   }
 }
 

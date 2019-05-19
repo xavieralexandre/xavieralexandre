@@ -149,14 +149,14 @@
     </Placemark>
 
     <Placemark>
-      <name>AirBnB</name>
+      <name>Les Précornes (Paille)</name>
       <styleUrl>#auberge</styleUrl>
       <description>
         <![CDATA[<a href="https://fr.airbnb.ch/rooms/18260971">AirBnB</a>]]>
       </description>
       <Point>
         <coordinates>
-          7.27673,46.66437
+          7.18076,46.63916
         </coordinates>
       </Point>
     </Placemark>
