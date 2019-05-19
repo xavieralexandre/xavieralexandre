@@ -113,7 +113,7 @@
       <name>Gare CFF Montbovon</name>
       <styleUrl>#end</styleUrl>
       <description>
-        <![CDATA[<a href="http://fahrplan.sbb.ch/bin/query.exe/fr?_charset_=utf-8&REQ0JourneyStopsSID=A=1@L=1@O=Lausanne&REQ0JourneyStopsZID=A=1@L=1@O=Montbovon">Horaire CFF</a>]]>
+        <![CDATA[<a href="http://fahrplan.sbb.ch/bin/query.exe/fr?_charset_=utf-8&REQ0JourneyStopsSID=A=1@L=1@O=Montbovon&REQ0JourneyStopsZID=A=1@L=1@O=Lausanne">Horaire CFF</a>]]>
       </description>
       <Point>
         <coordinates>
