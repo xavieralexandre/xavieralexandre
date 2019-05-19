@@ -109,6 +109,19 @@
       </Point>
     </Placemark>
 
+   <Placemark>
+      <name>Gare CFF Montbovon</name>
+      <styleUrl>#end</styleUrl>
+      <description>
+        <![CDATA[<a href="http://fahrplan.sbb.ch/bin/query.exe/fr?_charset_=utf-8&REQ0JourneyStopsSID=A=1@L=1@O=Lausanne&REQ0JourneyStopsZID=A=1@L=1@O=Montbovon">Horaire CFF</a>]]>
+      </description>
+      <Point>
+        <coordinates>
+          7.04276,46.48584
+        </coordinates>
+      </Point>
+    </Placemark>
+
     <Placemark>
       <name>Pinte des Mossettes</name>
       <styleUrl>#resto</styleUrl>
