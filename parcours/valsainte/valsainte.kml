@@ -110,19 +110,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Schwarzsee</name>
-      <styleUrl>#end</styleUrl>
-      <description>
-        <![CDATA[<a href="https://www.schwarzsee.ch/fr/">Schwarzsee</a>]]>
-      </description>
-      <Point>
-        <coordinates>
-          7.27400,46.66480
-        </coordinates>
-      </Point>
-    </Placemark>
-
-    <Placemark>
       <name>Pinte des Mossettes</name>
       <styleUrl>#resto</styleUrl>
       <description>
@@ -131,19 +118,6 @@
       <Point>
         <coordinates>
           7.19642,46.65357
-        </coordinates>
-      </Point>
-    </Placemark>
-
-    <Placemark>
-      <name>Le Baron</name>
-      <styleUrl>#resto</styleUrl>
-      <description>
-        <![CDATA[<a href="https://www.lebaroncharmey.ch/">Le Baron</a>]]>
-      </description>
-      <Point>
-        <coordinates>
-          7.17223,46.61281
         </coordinates>
       </Point>
     </Placemark>
