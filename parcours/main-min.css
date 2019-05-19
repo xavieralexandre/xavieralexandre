@@ -50,7 +50,7 @@ a, a:visited {
   color: black;
 }
 
-a[href^="tel:"] {
+a[href="tel:"] {
   text-decoration: none;
 }
 
