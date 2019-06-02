@@ -16,7 +16,7 @@ var map = new ga.Map({
 
 var map_track = function(kml) {
   var source = new ol.source.Vector({
-    url: 'http://www.xavieralexandre.org/parcours/' + kml + '/' + kml + '.kml',
+    url: 'https://www.xavieralexandre.org/parcours/' + kml + '/' + kml + '.kml',
     format: new ol.format.KML({
       extractStyles: true
     }),

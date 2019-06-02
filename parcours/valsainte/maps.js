@@ -12,7 +12,7 @@ var map = new ga.Map({
 // Create the KML Layer
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://www.xavieralexandre.org/parcours/valsainte/valsainte.kml',
+    url: 'https://www.xavieralexandre.org/parcours/valsainte/valsainte.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),
