@@ -12,7 +12,7 @@ var map = new ga.Map({
 // Create the KML Layer
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://xavieralexandre.org/parcours/derborence/derborence.kml',
+    url: 'http://www.xavieralexandre.org/parcours/derborence/derborence.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),

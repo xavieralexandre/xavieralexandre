@@ -12,7 +12,7 @@ var map = new ga.Map({
 // Create the KML Layer
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://xavieralexandre.org/parcours/val-d-Illiez/val-d-Illiez.kml',
+    url: 'http://www.xavieralexandre.org/parcours/val-d-Illiez/val-d-Illiez.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),

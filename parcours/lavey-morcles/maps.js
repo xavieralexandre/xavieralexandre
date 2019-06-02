@@ -12,7 +12,7 @@ var map = new ga.Map({
 // Create the KML Layer
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://xavieralexandre.org/parcours/lavey-morcles/lavey-morcles.kml',
+    url: 'http://www.xavieralexandre.org/parcours/lavey-morcles/lavey-morcles.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),
