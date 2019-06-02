@@ -17,6 +17,359 @@
 		"oAP": "/CNAME",
 		"oF": 0
 		},
+	"/fondue/archives/cheese.sketch": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/fondue/archives/cheese.sketch",
+		"oF": 0
+		},
+	"/fondue/archives/cheese.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/fondue/archives/cheese.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/fondue/archives/fork.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/fondue/archives/fork.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/fondue/archives/logo.png": {
+		"ft": 32768,
+		"iS": 38252,
+		"oA": 0,
+		"oAP": "/fondue/archives/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/fondue/archives/logo_notxt.png": {
+		"ft": 32768,
+		"iS": 14001,
+		"oA": 0,
+		"oAP": "/fondue/archives/logo_notxt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/fondue/archives/logo_notxt.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/fondue/archives/logo_notxt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/fondue/archives/pin.sketch": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/fondue/archives/pin.sketch",
+		"oF": 0
+		},
+	"/fondue/archives/Sketches.jpg": {
+		"ft": 16384,
+		"iS": 134329,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/fondue/archives/Sketches.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/fondue/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/fondue/CNAME",
+		"oF": 0
+		},
+	"/fondue/font/SuisseIntl-Book-WebS.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/fondue/font/SuisseIntl-Book-WebS.eot",
+		"oF": 0
+		},
+	"/fondue/font/SuisseIntl-Book-WebS.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/fondue/font/SuisseIntl-Book-WebS.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/fondue/font/SuisseIntl-Book-WebS.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/fondue/font/SuisseIntl-Book-WebS.ttf",
+		"oF": 0
+		},
+	"/fondue/font/SuisseIntl-Book-WebS.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/fondue/font/SuisseIntl-Book-WebS.woff",
+		"oF": 0
+		},
+	"/fondue/font/SuisseIntl-Book-WebS.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/fondue/font/SuisseIntl-Book-WebS.woff2",
+		"oF": 0
+		},
+	"/fondue/img/chatelard.jpg": {
+		"ft": 16384,
+		"iS": 118888,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/fondue/img/chatelard.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/fondue/img/cheese.png": {
+		"ft": 32768,
+		"iS": 1985,
+		"oA": 0,
+		"oAP": "/fondue/img/cheese.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/fondue/img/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/fondue/img/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/fondue/img/preview.png": {
+		"ft": 32768,
+		"iS": 102103,
+		"oA": 0,
+		"oAP": "/fondue/img/preview.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/fondue/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/fondue/index.html",
+		"oF": 0
+		},
+	"/fondue/main.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/fondue/main-min.css",
+		"oF": 0,
+		"oS": 1
+		},
+	"/fondue/map.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/fondue/map.html",
+		"oF": 0
+		},
+	"/fondue/maps.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/fondue/min/maps-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/fondue/min/maps-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/fondue/min/min/maps-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/fondue/min/phantom-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/fondue/min/min/phantom-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/fondue/min/static_map-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/fondue/min/min/static_map-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/fondue/min/static_maps-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/fondue/min/min/static_maps-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/fondue/nice_map.png": {
+		"ft": 32768,
+		"iS": 842673,
+		"oA": 0,
+		"oAP": "/fondue/nice_map.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/fondue/phantom.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/fondue/min/phantom-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/fondue/phantomjs": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/fondue/phantomjs",
+		"oF": 0
+		},
+	"/fondue/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fondue/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/fondue/routes/aran.kml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/fondue/routes/aran.kml",
+		"oF": 0
+		},
+	"/fondue/routes/capites.kml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/fondue/routes/capites.kml",
+		"oF": 0
+		},
+	"/fondue/routes/chatelard.kml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/fondue/routes/chatelard.kml",
+		"oF": 0
+		},
+	"/fondue/routes/riex.kml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/fondue/routes/riex.kml",
+		"oF": 0
+		},
+	"/fondue/routes/rivaz.kml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/fondue/routes/rivaz.kml",
+		"oF": 0
+		},
+	"/fondue/static_map.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/fondue/min/static_map-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"/font/SuisseIntl-Book-WebS.eot": {
 		"cB": 0,
 		"ft": 8192,

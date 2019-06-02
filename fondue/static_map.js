@@ -14,7 +14,7 @@ var map = new ga.Map({
 
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://www.duvindufromageetdupain.ch/routes/capites.kml',
+    url: 'http://www.xavieralexandre.org/fondue/routes/capites.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),
@@ -31,24 +31,7 @@ map.addLayer(vector);
 
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://www.duvindufromageetdupain.ch/routes/rivaz.kml',
-    format : new ol.format.KML({
-      projection: 'EPSG:21781'
-    }),
-    extractStyles: true
-  }),
-  style: new ol.style.Style({
-    stroke: new ol.style.Stroke({
-      color: 'rgba(255,0,0,0.8)',
-      width: 6
-    })
-  })
-});
-map.addLayer(vector);
-
-var vector = new ol.layer.Vector({
-  source: new ol.source.Vector({
-    url: 'http://www.duvindufromageetdupain.ch/routes/riex.kml',
+    url: 'http://www.xavieralexandre.org/fondue/routes/rivaz.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),
@@ -65,7 +48,7 @@ map.addLayer(vector);
 
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://www.duvindufromageetdupain.ch/routes/chatelard.kml',
+    url: 'http://www.xavieralexandre.org/fondue/routes/riex.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),
@@ -82,7 +65,24 @@ map.addLayer(vector);
 
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://www.duvindufromageetdupain.ch/routes/aran.kml',
+    url: 'http://www.xavieralexandre.org/fondue/routes/chatelard.kml',
+    format : new ol.format.KML({
+      projection: 'EPSG:21781'
+    }),
+    extractStyles: true
+  }),
+  style: new ol.style.Style({
+    stroke: new ol.style.Stroke({
+      color: 'rgba(255,0,0,0.8)',
+      width: 6
+    })
+  })
+});
+map.addLayer(vector);
+
+var vector = new ol.layer.Vector({
+  source: new ol.source.Vector({
+    url: 'http://www.xavieralexandre.org/fondue/routes/aran.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),

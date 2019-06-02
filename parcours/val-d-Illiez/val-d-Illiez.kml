@@ -8,7 +8,7 @@
     <Style id="sauna">
       <IconStyle>
         <Icon>
-          <href>http://www.duvindufromageetdupain.ch/img/cheese.png</href>
+          <href>http://www.xavieralexandre.org/fondue/img/cheese.png</href>
         </Icon>
         <hotSpot x="0.5"  y="0" xunits="fraction" yunits="fraction"/>    <!-- kml:vec2 -->
       </IconStyle>

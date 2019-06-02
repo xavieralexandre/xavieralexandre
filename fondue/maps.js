@@ -12,7 +12,7 @@ var map_capites = new ga.Map({
 // Create the KML Layer
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://www.duvindufromageetdupain.ch/routes/capites.kml',
+    url: 'http://www.xavieralexandre.org/fondue/routes/capites.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),
@@ -41,7 +41,7 @@ var map_rivaz = new ga.Map({
 // Create the KML Layer
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://www.duvindufromageetdupain.ch/routes/rivaz.kml',
+    url: 'http://www.xavieralexandre.org/fondue/routes/rivaz.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),
@@ -70,7 +70,7 @@ var map_riex = new ga.Map({
 // Create the KML Layer
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://www.duvindufromageetdupain.ch/routes/riex.kml',
+    url: 'http://www.xavieralexandre.org/fondue/routes/riex.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),
@@ -100,7 +100,7 @@ var map_chatelard = new ga.Map({
 // Create the KML Layer
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://www.duvindufromageetdupain.ch/routes/chatelard.kml',
+    url: 'http://www.xavieralexandre.org/fondue/routes/chatelard.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),
@@ -129,7 +129,7 @@ var map_aran = new ga.Map({
 // Create the KML Layer
 var vector = new ol.layer.Vector({
   source: new ol.source.Vector({
-    url: 'http://www.duvindufromageetdupain.ch/routes/aran.kml',
+    url: 'http://www.xavieralexandre.org/fondue/routes/aran.kml',
     format : new ol.format.KML({
       projection: 'EPSG:21781'
     }),
